@@ -23,9 +23,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2349013432338', '2349013432338']
-global.prems = ['2349013432338', '2349013432338', '2349013432338']
-global.allowed = ['2349013432338', '2349013432338', '2349013432338']
+global.mods = ['919064884766', '994407122025']
+global.prems = ['919064884766', '994407122025', '994406212730']
+global.allowed = ['919064884766', '994407122025', '994406212730']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -71,11 +71,11 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'false'
-global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
-global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
-global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
+global.packname = 'RajWhatsApp'
+global.author = '+994407122025'
+global.menuvid = 'https://graph.org/file/1506e5842805b0968c5cf.mp4'
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/i_am_your_raj_kumar\n'
+global.dygp = 'https://whatsapp.com/channel/0029VaZ31elGE56hPfwhM10B'
 global.fgsc = 'https://github.com/'
 global.fgyt = 'https://youtube.com/'
 global.fgpyp = 'https://youtube.com/'
