@@ -79,7 +79,7 @@ global.dygp = 'https://whatsapp.com/channel/0029VaZ31elGE56hPfwhM10B'
 global.fgsc = 'https://github.com/'
 global.fgyt = 'https://youtube.com/'
 global.fgpyp = 'https://youtube.com/'
-global.fglog = 'https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg'
+global.fglog = 'https://telegra.ph/file/fe01b578f73294993cdd2.jpg'
 global.thumb = fs.readFileSync('./Assets/fire.jpg')
 
 global.wait = '*🕑 _processing..._*\n*▰▰▰▱▱▱▱▱*'
