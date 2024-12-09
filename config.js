@@ -6,12 +6,12 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "2349013432338; Opaksfire"
+const ownervb = process.env.OWNERS || "994407122025; Opaksfire"
 
 
 const ownerlist = ownervb.split(';');
 
-global.owner = [];
+global.owner = ['994407122025'];
 for (let i = 0; i < ownerlist.length; i += 2) {
     const owner = [
         ownerlist[i],            
@@ -21,7 +21,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     global.owner.push(owner);
 }
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "918371079335" //put your bot number here
 
 global.mods = ['919064884766', '994407122025']
 global.prems = ['919064884766', '994407122025', '994406212730']
@@ -70,7 +70,7 @@ global.APIKeys = {
 
 // Sticker WM
 global.botname = process.env.BOTNAME
-global.premium = 'false'
+global.premium = 'true'
 global.packname = 'RajWhatsApp'
 global.author = '+994407122025'
 global.menuvid = 'https://graph.org/file/1506e5842805b0968c5cf.mp4'
